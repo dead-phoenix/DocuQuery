@@ -1,0 +1,8 @@
+faq_data.json
+*.pt
+*.bin
+all_text.txt
+test.json
+Text.txt
+data/
+models/
