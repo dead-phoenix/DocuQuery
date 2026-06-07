@@ -154,6 +154,5 @@ The project started with LLMs (Alpaca-LoRA, DialoGPT) but pivoted to SBERT after
 
 - **Client**: [MANE](https://www.mane.com/) — global fragrance and flavor company, Legal & IP department
 - **Institution**: École Centrale Méditerranée
-- **Team**: Wissame Bennah, Ajinkya Bhalerao, Akshita Rai, Tanisha Thapa, Swachhith Ballemkonda
 - **Supervisor**: Anne-Laure Mealier
 - **Year**: 2023–2024
